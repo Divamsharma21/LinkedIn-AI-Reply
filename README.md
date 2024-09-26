@@ -1,1 +1,2 @@
-# LinkedIn-AI-Reply
+# ChatGPT Writer Assignment
+  
