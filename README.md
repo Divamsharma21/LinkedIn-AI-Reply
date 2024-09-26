@@ -1,7 +1,3 @@
-# ChatGPT Writer Assignment
-
-  this is a assignment video 
-  https://github.com/user-attachments/assets/9f469416-b35c-4f3d-ae3a-8d780fb94ae3
-
-  
-  
+# chat_gpt writer Assignment
+This is an assignment video for the ChatGPT Writer Assignment. 
+The video is located at https://github.com/user-attachments/assets/41631d97-681a-4d43-9fb3-ba61f7982203.
